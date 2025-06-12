@@ -16,7 +16,7 @@ This project documents my journey from C++ basics to solving Data Structures & A
 
 ---
 
-### 📂 Files in `day1-basics/`
+
 
 
 ---
