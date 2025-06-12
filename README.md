@@ -18,13 +18,6 @@ This project documents my journey from C++ basics to solving Data Structures & A
 
 ### 📂 Files in `day1-basics/`
 
-| File Name       | Description                              |
-|----------------|------------------------------------------|
-| `hello.cpp`     | Basic "Hello, World!" program            |
-| `sum_diff.cpp`  | Sum and difference of two numbers        |
-| `loop_print.cpp`| Print numbers from 1 to n using a loop   |
-| `seasons.cpp`   | Switch case with retry mechanism         |
-| `even_odd.cpp`  | Function to check if number is even/odd  |
 
 ---
 
